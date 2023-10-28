@@ -1,4 +1,3 @@
-![](https://github.com/pragyy/datascience-readme-template/blob/main/Headerheader.jpg)
 
 # Exploratory Data Analysis - Terrorism
 
