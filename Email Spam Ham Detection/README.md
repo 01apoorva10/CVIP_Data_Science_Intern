@@ -2,10 +2,10 @@
 # Email Spam Ham Detection
 ## Phase 2 Task 1 
 
-> develop an efficient and accurate Email Spam Detection system
-![Source - Medium](email.webp)
+> To develop an efficient and accurate Email Spam Detection system
+![Source - Medium](EMAIL_.webp)
 
-<font size="1">Image Source : https://medium.com/</font>
+<font size="1">Image Source : https://towardsdatascience.com/spam-detection-in-emails-de0398ea3b48</font>
 
 
 ## - [Google Colab File link](https://colab.research.google.com/drive/1-67V8P6bruw-8dfjGoc0ZKD10u4q4JyK?usp=sharing)
